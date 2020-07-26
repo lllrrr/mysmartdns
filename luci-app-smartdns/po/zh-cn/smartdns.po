@@ -181,6 +181,12 @@ msgstr "跳过cache"
 msgid "Skip Cache."
 msgstr "跳过cache。"
 
+msgid "Force AAAA SOA"
+msgstr "停用IPV6地址解析"
+
+msgid "Force AAAA SOA."
+msgstr "停用IPV6地址解析。"
+
 msgid "Upstream Servers"
 msgstr "上游服务器"
 
